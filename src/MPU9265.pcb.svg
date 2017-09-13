@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.4mm"
+   height="15.599999mm"
+   viewBox="0 0 89.999994 55.275587"
+   id="svg3537"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="MPU9265.pcb.svg">
+  <defs
+     id="defs3539" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.5673149"
+     inkscape:cx="10.079412"
+     inkscape:cy="53.328966"
+     inkscape:document-units="px"
+     inkscape:current-layer="copper1"
+     showgrid="false"
+     inkscape:window-width="3200"
+     inkscape:window-height="1752"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3542">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="copper1"
+     transform="translate(0,-997.08655)">
+    <rect
+       y="997.08655"
+       x="1.6005203e-14"
+       height="55.275589"
+       width="90"
+       id="rect5389"
+       style="fill:none;fill-opacity:1;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4650-3"
+       cx="-8.8582735"
+       cy="-1043.5039"
+       transform="scale(-1,-1)"
+       r="5.3149605" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4650-6-7"
+       cx="-81.496063"
+       cy="-1043.5039"
+       transform="scale(-1,-1)"
+       r="5.3149605" />
+    <circle
+       gorn="0.1.0.1"
+       id="connector0pin-3-6-7"
+       cy="1003.0887"
+       cx="85.499992"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.79999995"
+       r="2.6099999" />
+    <circle
+       gorn="0.1.0.1"
+       id="connector0pin-3-6-7-2"
+       cy="1003.0887"
+       cx="76.499992"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.79999995"
+       r="2.6099997" />
+    <circle
+       gorn="0.1.0.1"
+       id="connector0pin-3-6-7-2-0-2"
+       cy="1003.0887"
+       cx="67.499992"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.79999995"
+       r="2.6099992" />
+    <circle
+       gorn="0.1.0.1"
+       id="connector0pin-3-6-7-2-0-3"
+       cy="1003.0887"
+       cx="58.499992"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.79999995"
+       r="2.6099992" />
+    <circle
+       gorn="0.1.0.1"
+       id="connector0pin-3-6-7-2-0-7"
+       cy="1003.0887"
+       cx="49.499996"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.79999995"
+       r="2.6099992" />
+    <circle
+       gorn="0.1.0.1"
+       id="connector0pin-3-6-7-2-0-5"
+       cy="1003.0887"
+       cx="40.499996"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.79999995"
+       r="2.6099992" />
+    <circle
+       gorn="0.1.0.1"
+       id="connector0pin-3-6-7-2-0-9"
+       cy="1003.0887"
+       cx="31.499996"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.79999995"
+       r="2.6099992" />
+    <circle
+       gorn="0.1.0.1"
+       id="connector0pin-3-6-7-2-0-22"
+       cy="1003.0887"
+       cx="22.499998"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.79999995"
+       r="2.6099992" />
+    <circle
+       gorn="0.1.0.1"
+       id="connector0pin-3-6-7-2-0-8"
+       cy="1003.0887"
+       cx="13.499998"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.79999995"
+       r="2.6099992" />
+    <circle
+       gorn="0.1.0.1"
+       id="connector0pin-3-6-7-2-0-97"
+       cy="1003.0887"
+       cx="4.5"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.79999995"
+       r="2.6099992" />
+  </g>
+</svg>
